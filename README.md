@@ -1,4 +1,4 @@
-## One Fm Password Management
+## thinknxg Password Management
 
 One FM Password Management is built on the [thinkNXG Framework](https://github.com/thinknxg/thinknxg), a full-stack web app framework built with Python & JavaScript.
 
