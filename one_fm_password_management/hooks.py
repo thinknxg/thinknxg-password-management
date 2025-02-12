@@ -3,12 +3,12 @@ from __future__ import unicode_literals
 from . import __version__ as app_version
 
 app_name = "one_fm_password_management"
-app_title = "One Fm Password Management"
-app_publisher = "ONE FM"
+app_title = "thinkNXG Password Management"
+app_publisher = "thinkNXG"
 app_description = "Password Management"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "develop@one-fm.com"
+app_email = "develop@thinknxg.com"
 app_license = "MIT"
 
 # Includes in <head>
